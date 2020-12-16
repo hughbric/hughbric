@@ -1,4 +1,6 @@
-![SPACE GIF](https://media.giphy.com/media/YOYog8uEsWFkKWVIKP/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/8qCZArL3jQnUmJw0th/giphy.gif" />
+</p>
 
 ### Hi there 👋
 
